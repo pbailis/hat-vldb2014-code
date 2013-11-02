@@ -1,0 +1,1 @@
+time echo "BIST" | java -ea -Dclusterid=1 -Dclientid=1 -Dtxn_mode=hat -Dhat_isolation_level=READ_COMMITTED -Datomicity_level=NO_ATOMICITY -jar cli-app/target/cli-app-1.0-SNAPSHOT.jar

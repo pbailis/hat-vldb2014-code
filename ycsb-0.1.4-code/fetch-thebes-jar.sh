@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=../thebes-code/thebes-client/target/thebes-client-1.0-SNAPSHOT.jar -DgroupId=edu.berkeley.thebes -DartifactId=thebes -Dversion=1.0-SNAPSHOT -Dpackaging=jar

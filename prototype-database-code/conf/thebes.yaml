@@ -1,0 +1,8 @@
+persistence_engine: memory
+cluster_config: {1: [127.0.0.1], 2:[127.0.0.2]}
+twopl_cluster_config: {1: [ec2-54-242-142-131.compute-1.amazonaws.com*, ec2-54-234-0-173.compute-1.amazonaws.com], 2: [ec2-54-234-237-165.compute-1.amazonaws.com, ec2-23-23-26-214.compute-1.amazonaws.com*]}
+twopl_tm_config: {1: ec2-54-234-147-137.compute-1.amazonaws.com, 2: ec2-54-243-5-118.compute-1.amazonaws.com}
+graphite_ip:
+socket_timeout: 10000
+
+antientropy_bootstrap_time: 10000

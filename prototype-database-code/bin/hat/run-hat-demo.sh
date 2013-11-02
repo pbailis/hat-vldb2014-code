@@ -1,0 +1,1 @@
+echo "s;p foo bar;get bar;put foo qux;get foo;get qux;e;q" | bin/hat/run-hat-cli.sh

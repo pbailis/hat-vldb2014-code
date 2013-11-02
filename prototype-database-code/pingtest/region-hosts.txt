@@ -1,0 +1,8 @@
+virgina:ec2-107-21-182-215.compute-1.amazonaws.com
+oregon:ec2-54-244-170-200.us-west-2.compute.amazonaws.com
+california:ec2-54-241-232-161.us-west-1.compute.amazonaws.com
+ireland:ec2-54-247-157-99.eu-west-1.compute.amazonaws.com
+singapore:ec2-54-251-65-9.ap-southeast-1.compute.amazonaws.com
+tokyo:ec2-176-34-41-179.ap-northeast-1.compute.amazonaws.com
+sydney:ec2-54-252-52-52.ap-southeast-2.compute.amazonaws.com
+saopaulo:ec2-54-232-36-8.sa-east-1.compute.amazonaws.com

@@ -1,0 +1,20 @@
+
+This repository contains code for "Highly Available Transactions:
+Virtues and Limitations" by Peter Bailis, Aaron Davidson, Alan Fekete,
+Ali Ghodsi, Joseph M. Hellerstein, and Ion Stoica in VLDB 2014.
+
+This is not production ready and is not intended for production
+use. This code is fairly ugly in places and sometimes incomplete and
+is provided in the spirit of the CRAPL license below.
+
+As of 2013, we are planning to release a simpler reference
+implementation for MAV/"Read Atomic" isolation in the future. This
+code serves as documentation for the above paper and is indeed the
+original software used to produce the results in the above
+publication.
+
+Please contact pbailis@cs.berkeley.edu for any questions.
+
+Towards the goal of openness in science, this code is licensed under
+the terms of CRAPL v0 BETA 1 (CRAPL-LICENSE.txt) and The Apache
+License Version 2.0 (APACHE-LICENSE.txt).
