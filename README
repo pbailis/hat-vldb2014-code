@@ -1,4 +1,3 @@
-
 This repository contains code for "Highly Available Transactions:
 Virtues and Limitations" by Peter Bailis, Aaron Davidson, Alan Fekete,
 Ali Ghodsi, Joseph M. Hellerstein, and Ion Stoica in VLDB 2014.
@@ -12,6 +11,13 @@ implementation for MAV/"Read Atomic" isolation in the future. This
 code serves as documentation for the above paper and is indeed the
 original software used to produce the results in the above
 publication.
+
+[EDIT (April 2014):
+   You can find details on our next-generation MAV isolation
+   work in a SIGMOD 2014 paper titled
+   "Scalable Atomic Visibility with RAMP Transactions":
+   http://www.bailis.org/blog/scalable-atomic-visibility-with-ramp-transactions/
+   https://github.com/pbailis/ramp-sigmod2014-code]
 
 Please contact pbailis@cs.berkeley.edu for any questions.
 
